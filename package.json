@@ -1,10 +1,10 @@
 {
-    "name": "create-next-app-plus",
+    "name": "setup-next-app",
     "version": "1.0.0",
     "description": "Extended Create Next App with Prettier and Husky",
     "main": "index.js",
     "bin": {
-        "create-next-app-plus": "index.js"
+        "setup-next-app": "index.js"
     },
     "keywords": [],
     "author": "",
