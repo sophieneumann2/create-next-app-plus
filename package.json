@@ -6,8 +6,12 @@
     "bin": {
         "setup-next-app": "index.js"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sophieneumann2/setup-next-app"
+    },
     "keywords": [],
-    "author": "",
+    "author": "Sophie Newman",
     "license": "ISC",
     "dependencies": {
         "create-next-app": "^14.2.3",
