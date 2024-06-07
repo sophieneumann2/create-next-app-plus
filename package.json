@@ -1,6 +1,6 @@
 {
     "name": "setup-next-app",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Extended Create Next App with Prettier and Husky",
     "main": "index.js",
     "bin": {
